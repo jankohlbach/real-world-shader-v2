@@ -1,3 +1,8 @@
+# About
+this repo was only a temporary wip, the main repo is now switched from nuxt to astro and threejs to curtainsjs
+
+check https://github.com/jankohlbach/real-world-shader
+
 # real world shader
 
 This is just a little playground for me. I wanted a place to collect various shader effects that I can actually use in real world client projects.
